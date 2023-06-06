@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Roobert";
+  font-weight: 1 999;
+  src: url("./assets/fonts/RoobertPROVF.woff2");
+}
+
+@font-face {
+  font-family: "Haffer";
+  font-weight: 1 999;
+  src: url("./assets/fonts/HafferVF.woff2");
+}
